@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- displays site properly based on user's device -->
 
+    <link rel="stylesheet" href="styles.css" />
+
     <link
       rel="icon"
       type="image/png"
@@ -20,84 +22,13 @@
     />
 
     <title>Frontend Mentor | Blog preview card</title>
-
-    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-    <style>
-      .attribution {
-        font-size: 11px;
-        text-align: center;
-        margin-top: auto;
-      }
-      .attribution a {
-        color: hsl(228, 45%, 44%);
-      }
-
-      body {
-        font-family: "Figtree", sans-serif;
-        background-color: hsl(47, 88%, 63%);
-        display: flex;
-        height: 100vh;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        margin: 0;
-      }
-
-      .preview-container {
-        background-color: hsl(0, 0%, 100%);
-        margin: auto 1em;
-        padding: 1.15em;
-        border-radius: 25px;
-        border: 2px solid black;
-        display: flex;
-        -webkit-box-shadow: 10px 11px 0px 1px rgba(0, 0, 0, 1);
-        -moz-box-shadow: 10px 11px 0px 1px rgba(0, 0, 0, 1);
-        box-shadow: 10px 11px 0px 1px rgba(0, 0, 0, 1);
-      }
-
-      .inner-content {
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-      }
-
-      .tag {
-        display: flex;
-        background-color: hsl(47, 88%, 63%);
-        padding: 0.5em 1em;
-        font-size: 12px;
-        font-weight: 800;
-        border-radius: 3px;
-        width: 20%;
-      }
-
-      .published-date {
-        font-size: 12px;
-      }
-
-      .blog-title {
-        font-weight: 800;
-        font-size: 1.25em;
-      }
-
-      .blog-description {
-        color: hsl(0, 0%, 42%);
-      }
-
-      .blog-author {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        gap: 10px;
-      }
-    </style>
   </head>
   <body>
     <div class="preview-container">
       <div class="inner-content">
         <img
           src="assets/images/illustration-article.svg"
-          style="height: 150px; border-radius: 15px"
+          style="width: 100%; border-radius: 15px"
         />
         <div class="tag">Learning</div>
         <div class="published-date">Published 21 Dec 2023</div>
