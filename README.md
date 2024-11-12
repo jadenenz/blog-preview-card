@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Screenshot](project-screenshot.png)
+![Screenshot of project](project-screenshot.png)
 
 ### Links
 
