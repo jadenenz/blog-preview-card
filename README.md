@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Screenshot](Screenshot 2024-11-12 at 13-45-59 Frontend Mentor Blog preview card.png)
+[Screenshot](project-screenshot.png)
 
 ### Links
 
