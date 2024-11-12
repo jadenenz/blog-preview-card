@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot 2024-11-12 at 13-45-59 Frontend Mentor Blog preview card.png)
+[Screenshot](Screenshot 2024-11-12 at 13-45-59 Frontend Mentor Blog preview card.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jadenenz/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://starlit-manatee-e32505.netlify.app/)
+- Solution URL: [https://github.com/jadenenz/blog-preview-card](https://github.com/jadenenz/blog-preview-card)
+- Live Site URL: [https://starlit-manatee-e32505.netlify.app/](https://starlit-manatee-e32505.netlify.app/)
 
 ## My process
 
